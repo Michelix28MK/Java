@@ -1,4 +1,0 @@
-name: plug
-main: minecraft.plugin.plug.Plugin
-version: 1.0
-api-version: 1.15
