@@ -1,19 +1,11 @@
-package Pacchetto;
+package Distributore;
 import java.util.*;
 
 public class Macchinetta{
-    private List<Prodotto> prodotti;
-
-    public Macchinetta(){
-        prodotti = new ArrayList<>();
-    }
+    private ArrayList<Prodotto> prodotti = new ArrayList<Prodotto>();
 
     void aggiungiProdotto(Prodotto p){
         prodotti.add(p);
-    }
-
-    void aggiungiProdotto(){
-
     }
 
     public Merendina getLast(){

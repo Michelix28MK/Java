@@ -1,7 +1,6 @@
-package Pacchetto;
+package Distributore;
 public class Merendina extends Prodotto{
     int calorie;
-
 
     public Merendina(int calorie){
         super();

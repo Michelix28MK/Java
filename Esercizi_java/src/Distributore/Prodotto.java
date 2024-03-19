@@ -1,4 +1,4 @@
-package Pacchetto;
+package Distributore;
 public abstract class Prodotto{
     public int costo;
     public String nome;
